@@ -4,7 +4,11 @@ LIST OF MEMBERS FOR TEAM 061 Qais
 LIST OF MEMBERS FOR TEAM 061 KELVIN
 >>>>>>> origin/master
  
+<<<<<<< HEAD
 Member 1[-- Qais Sadat
+=======
+MEMBER 1 NAME
+>>>>>>> parent of 37361bf... Change of Name
  
 MEMBER 2 Stanton
  
