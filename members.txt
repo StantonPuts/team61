@@ -1,17 +1,18 @@
-<<<<<<< HEAD
-LIST OF MEMBERS FOR TEAM 061 Qais
-=======
-LIST OF MEMBERS FOR TEAM 061 KELVIN
->>>>>>> origin/master
+TEAM NUMBER 61
  
+<<<<<<< HEAD
 <<<<<<< HEAD
 Member 1[-- Qais Sadat
 =======
 MEMBER 1 NAME
 >>>>>>> parent of 37361bf... Change of Name
+=======
+Member 1 Qais Sadat
+>>>>>>> origin/master
  
 MEMBER 2 Stanton
  
 MEMBER 3 Alex
  
 MEMBER 4 Lai Ka Wang Kelvin
+
