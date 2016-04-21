@@ -1,18 +1,7 @@
 LIST OF MEMBERS FOR TEAM 061 Stanton
+
  
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-waddup
-=======
-Member 1 Qais Sadat
->>>>>>> origin/master
-=======
-Member 1[ Qais Sadat
->>>>>>> origin/master
-=======
 MEMBER 1 Qais Sadat
->>>>>>> origin/master
  
 MEMBER 2 Stanton
  
