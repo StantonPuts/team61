@@ -1,6 +1,10 @@
 LIST OF MEMBERS FOR TEAM 061
  
+<<<<<<< HEAD
 waddup
+=======
+Member 1 Qais Sadat
+>>>>>>> origin/master
  
 MEMBER 2 Stanton
  
